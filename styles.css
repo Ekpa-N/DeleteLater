@@ -1,0 +1,13 @@
+.container div {
+    color: green;
+}
+div.special.nice {
+    color: red;
+
+}
+#favbox {
+        color: blueviolet;
+}
+* {
+    color: gold;
+}
